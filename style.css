@@ -1,0 +1,97 @@
+ul.hr {
+    margin: 0;
+    padding: 4px;
+}
+
+ul.hr li {
+    display: inline;
+    margin-right: 50px;
+    padding: 3px;
+}
+
+header {
+    font: normal 25px "Trebuchet MS", Helvetica, sans-serif;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+nav {
+    width: 900px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    cursor: pointer;
+    color: silver;
+}
+
+#Big {
+    font: normal 35px "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.block {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font: normal 50px "Trebuchet MS", Helvetica, sans-serif;
+}
+
+section {
+    font: normal 25px "Trebuchet MS", Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+div {
+    position: relative;
+}
+
+div span {
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+    left: 50px;
+    font: normal 30px "Trebuchet MS", Helvetica, sans-serif;
+}
+
+img {
+    margin: 30px;
+}
+
+footer {
+    font: normal 24px "Trebuchet MS", Helvetica, sans-serif;
+    margin: 30px;
+}
+
+.clients {
+    margin-top: 100px;
+}
+
+.block-contact {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font: normal 35px "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.contact {
+    padding: 50px 20px 50px 20px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 170px;
+    height: 70px;
+    font: normal 22px "Trebuchet MS", Helvetica, sans-serif;
+}
